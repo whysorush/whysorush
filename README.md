@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a developer experienced in  MEAN/MERN stack Technology (Lean towards Backend). I love to dig new features and explore some logic that seems not doable, I am a quick learner and a problem solver.<br>I am looking forward to contributing to the next big thing.<br>
+🔭 Results-driven Senior Software Engineer with 4+ years specializing in backend (Node.js) and full-stack development within fintech and payment systems environments. Proven expertise in building highly scalable and resilient microservices, RESTful APIs, and integrating AI solutions. Proficient in React/Angular, relational/NoSQL databases (MongoDB, PostgreSQL), Docker, and CI/CD practices. Leverages a strong understanding of financial transaction processing, software development best practices, and collaborative problem-solving to deliver efficient and secure applications.<br>
 
 
 ## 🌐 Socials:
